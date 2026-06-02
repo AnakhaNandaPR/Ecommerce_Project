@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AnakhaNandaPR/Ecommerce_Project/static/css/main.b2967115.css",
+    "main.js": "/AnakhaNandaPR/Ecommerce_Project/static/js/main.d062b099.js",
+    "static/js/453.20359781.chunk.js": "/AnakhaNandaPR/Ecommerce_Project/static/js/453.20359781.chunk.js",
+    "index.html": "/AnakhaNandaPR/Ecommerce_Project/index.html",
+    "main.b2967115.css.map": "/AnakhaNandaPR/Ecommerce_Project/static/css/main.b2967115.css.map",
+    "main.d062b099.js.map": "/AnakhaNandaPR/Ecommerce_Project/static/js/main.d062b099.js.map",
+    "453.20359781.chunk.js.map": "/AnakhaNandaPR/Ecommerce_Project/static/js/453.20359781.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2967115.css",
+    "static/js/main.d062b099.js"
+  ]
+}
