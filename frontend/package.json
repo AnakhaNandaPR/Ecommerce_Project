@@ -1,6 +1,7 @@
 {
   "name": "frontend",
-  "homepage": "https://github.com/AnakhaNandaPR/Ecommerce_Project",
+  
+  "homepage": "https://anakhanandapr.github.io/Ecommerce_Project/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
